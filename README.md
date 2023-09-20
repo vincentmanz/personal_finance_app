@@ -1,2 +1,2 @@
 # personal_finance_app
-A shiny app to oversee you finance
+A shiny app to oversee your finance
